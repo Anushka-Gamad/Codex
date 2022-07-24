@@ -1,4 +1,5 @@
-# Codex
+<img src="https://github.com/Anushka-Gamad/Codex/blob/main/Screenshot 2022-07-24 at 11.41.23 AM.png" alt="Codex_logo" title="logo" align="right" height="100"/>
+<h1>Codex</h1>
 
 <p>
 It is a real time chatting platform for coders, it enables them to chat in the rooms according to the programming language they code in.
